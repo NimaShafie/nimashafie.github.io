@@ -1,6 +1,5 @@
 Welcome to my github.io page!
-Here you can find my online portfolio
-<a href ="https://nimashafie.github.io/">https://nimashafie.github.io/</a>
+Here you can find my online portfolio <a href="https://nimashafie.github.io/" target="_blank">GitHub IO</a>
 
 
 All credits below
