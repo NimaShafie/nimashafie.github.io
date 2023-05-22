@@ -522,11 +522,22 @@ section {
   color: #45505b;
 }
 
+.resume .resume-item h6 {
+  font-size: 20px;
+  font-weight: bold;
+  font-variant: small-caps;
+  letter-spacing:1px;
+}
+
 .resume .resume-item {
   padding: 0 0 20px 20px;
   margin-top: -2px;
   border-left: 2px solid #0563bb;
   position: relative;
+}
+
+.resume .resume-item i {
+  font-size: 90%
 }
 
 .resume .resume-item h4 {

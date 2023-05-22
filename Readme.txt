@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+Homepage for Nima's online resume/portfolio
 
-Template Name: MyResume
-Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Visit here: https://nimashafie.github.io/
