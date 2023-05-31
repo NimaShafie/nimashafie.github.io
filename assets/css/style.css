@@ -810,6 +810,12 @@ section {
   padding: 0;
 }
 
+.portfolio-overflow {
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  hyphens: auto;
+}
+
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
