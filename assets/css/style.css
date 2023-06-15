@@ -816,6 +816,10 @@ section {
   hyphens: auto;
 }
 
+.portfolio-description .role-padding {
+  padding-left: 10px;
+}
+
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
@@ -1193,10 +1197,6 @@ section {
   font-size: 15;
   font-style: italic;
   padding: 0;
-  margin: 0 0 40px 0;
-}
-
-#footer .social-links {
   margin: 0 0 40px 0;
 }
 
