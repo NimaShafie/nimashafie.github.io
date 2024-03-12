@@ -1,0 +1,15 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+	<title>bitbucket-svg</title>
+	<defs>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-130.028,105.295,-75.748,-93.541,374.967,221.018)">
+			<stop offset="0" stop-color="#0052cc"/>
+			<stop offset="1" stop-color="#2684ff"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: #2684ff } 
+		.s1 { fill: url(#g1) } 
+	</style>
+	<path id="Layer" fill-rule="evenodd" class="s0" d="m376.9 409c-0.8 4.9-5 8.4-10 8.4h-221q-1.8 0-3.5-0.6-1.6-0.6-3-1.8-1.4-1.1-2.2-2.7-0.9-1.5-1.2-3.3l-45.5-279c-0.2-1.4-0.2-2.9 0.2-4.4 0.4-1.4 1.1-2.7 2.1-3.8 0.9-1.1 2.1-2 3.4-2.6 1.4-0.6 2.8-0.9 4.3-0.9h311.6c1.5 0 2.9 0.3 4.2 0.9 1.4 0.6 2.5 1.5 3.5 2.6 0.9 1.2 1.6 2.5 2 3.9 0.4 1.4 0.4 2.9 0.2 4.3zm-69.1-190.2h-104.8l18.7 98h69.3z"/>
+	<path id="Layer" class="s1" d="m407.5 219.3h-99.6l-16.5 97.5h-69.2v100.7h144.7c5.3 0 9-3.7 9.6-8.5l30.9-189.7z"/>
+</svg>
